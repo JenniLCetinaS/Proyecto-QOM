@@ -1,0 +1,9 @@
+Las contraseñas y usuarios son 
+
+jenni
+123
+
+dayana
+456
+
+Las contraseñas no se pueden ver en la base de datos porque estan incriptadas :v
